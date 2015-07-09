@@ -1,0 +1,8 @@
+# Mac cruft
+.DS_Store
+.AppleDouble
+.AppleDouble/*
+.localized
+
+#DrRacket temp files
+.rkt~
